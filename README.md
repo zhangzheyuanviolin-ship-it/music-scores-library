@@ -41,15 +41,6 @@
 
 ---
 
-### 压缩包
-
-- Metodo_Suzuki_Vol_05.rar - 第五卷PDF+MP3完整包
-- Metodo_Suzuki_Vol_06.rar - 第六卷PDF+MP3完整包
-- Metodo_Suzuki_Vol_07.rar - 第七卷PDF+MP3完整包
-- Metodo_Suzuki_Vol_08.rar - 第八卷PDF+MP3完整包
-
----
-
 ### 第一卷曲目列表
 
 1. Twinkle, Twinkle, Little Star Variations（小星星变奏曲）
@@ -69,6 +60,45 @@
 15. Minuet 3（小步舞曲3）- J.S. 巴赫
 16. The Happy Farmer（快乐的农夫）- R. 舒曼
 17. Gavotte（加沃特舞曲）- F.J. 戈塞克
+
+---
+
+## 乐谱测试集
+
+MusicXML格式乐谱测试文件，包含：
+
+### 巴赫作品
+- Bach_Violin_Sonata_BWV1001_Complete.mxl - 小提琴奏鸣曲BWV1001（完整）
+- Bach_Violin_Partita_BWV1006_Complete.mxl - 小提琴帕蒂塔BWV1006（完整）
+- Bach_BWV1001_Mov1_Adagio.mxl - BWV1001第一乐章柔板
+- Bach_BWV1001_Mov2_Fugue.mxl - BWV1001第二乐章赋格
+- Bach_BWV1006_Mov1_Prelude.mxl - BWV1006第一乐章前奏曲
+- Bach_BWV1006_Mov3_Gavotte.mxl - BWV1006第三乐章加沃特
+- Bach_Minuet_BWV_Anh114.mxl - 小步舞曲BWV Anh.114
+- Bach_Violin_Sonatas_Partitas_BWV1001-1006.pdf - 六首奏鸣曲与帕蒂塔PDF
+
+### 其他作曲家
+- Chopin_Nocturne_Op9_No2.mxl - 肖邦夜曲Op.9 No.2
+- Mozart_Sonata_No16_Allegro.mxl - 莫扎特第16号奏鸣曲快板
+
+### 音频文件
+- Bach_BWV1006_Prelude.mid - BWV1006前奏曲MIDI
+- Bach_BWV1006_Prelude.wav - BWV1006前奏曲WAV音频
+
+### 测试报告
+- TEST_REPORT.txt - 乐谱解析测试报告
+
+---
+
+## 下载说明
+
+所有资源已打包上传至GitHub Release，可直接下载：
+
+- **suzuki-violin-complete.zip** (465MB) - 铃木教材完整资源包
+- **suzuki-pdf-scores.zip** (35MB) - 全10卷PDF乐谱
+- **suzuki-vol1-mp3.zip** (16MB) - 第一卷MP3音频
+- **suzuki-vol5-8-mp3.zip** (204MB) - 第五至八卷MP3音频
+- **scores-test-collection.zip** (40MB) - 乐谱测试集
 
 ---
 
